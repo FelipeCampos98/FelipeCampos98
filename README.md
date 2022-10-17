@@ -26,8 +26,3 @@
 
 
 
-</details>
-
-
-
-[linkedin]: https://www.linkedin.com/in/felipe-campos-433422252/
