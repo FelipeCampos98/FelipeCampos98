@@ -8,7 +8,7 @@
 - 👯 I’m looking to Work with a team of developers
 - 🥅 2022 Goals: Learn more about Flutter
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anselal)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anselal" />
 
 ### Languages and Tools:
 
