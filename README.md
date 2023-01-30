@@ -4,9 +4,9 @@
 
 ## I'm a Full-Stack Mobile Developer!!
 
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning Dart
 - 👯 I’m looking to Work with a team of developers
-- 🥅 2022 Goals: Learn more about Flutter
+- 🥅 2022 Goals: Learn more about Kotlin
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeCampos98&theme=dracula)
 
