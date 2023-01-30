@@ -8,7 +8,7 @@
 - 👯 I’m looking to Work with a team of developers
 - 🥅 2022 Goals: Learn more about Flutter
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeCampos98&layout=compact)](https://github.com/FelipeCampos98/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeCampos98&layout=dracula)](https://github.com/FelipeCampos98/github-readme-stats)
 
 <img align="left" alt="Android Studio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
